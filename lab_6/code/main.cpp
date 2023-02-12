@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 struct Element
 {
     int age;
