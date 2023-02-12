@@ -2,7 +2,7 @@
 #include <chrono>
 using namespace std;
 
-const int N = 5;
+const int N = 1000;
 
 void QuickSort(int mas[], int left, int right) {
 	if (left == right) return;
