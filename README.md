@@ -4,7 +4,7 @@ All laboratory work for 2 semester 1 course. (winter-spring 2022) Program code a
 
 language: rus and eng
 
---- 
+#--- #
 + lab_1 - "Оценка сложности алгоритма"
 + lab_2 - "Исследование сортировок на примере сортировок Пузырьком и Быстрой"
 + lab_3 - "Бинарный поиск и бисекция"
